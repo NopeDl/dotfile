@@ -2,3 +2,6 @@
 
 + fish shell
 + neovim
++ ideavim
++ wezterm
++ wsl
